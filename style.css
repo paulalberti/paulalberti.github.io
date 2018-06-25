@@ -1,0 +1,12 @@
+.container-fluid {
+	text-align: center;
+	height: 100vh;
+	margin-top: 10%;
+}
+
+.jumbotron-fluid {
+	height: 100vh;
+	background-image: url(img/bg.jpg);
+	background-size: cover; 
+    height: 100%;
+}
